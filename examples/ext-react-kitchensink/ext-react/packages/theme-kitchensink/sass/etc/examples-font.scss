@@ -23,128 +23,425 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-Closable-Tabs:before {
-  content: "\e900";
+.icon-cell-overflow-grid:before {
+  content: "\e992";
 }
-.icon-Desktop-Tabs:before {
-  content: "\e901";
+.icon-overflow-tabs:before {
+  content: "\e993";
 }
-.icon-Scrolling-Tabs:before {
+.icon-toolbar-overflow:before {
+  content: "\e994";
+}
+.icon-line-real-time-date:before {
+  content: "\e98f";
+}
+.icon-line-real-time-number:before {
+  content: "\e990";
+}
+.icon-line-real-time:before {
+  content: "\e991";
+}
+.icon-gridheader-tools:before {
+  content: "\e96a";
+}
+.icon-rowoperations-grid:before {
+  content: "\e98b";
+}
+.icon-editable-grid:before {
+  content: "\e98c";
+}
+.icon-layout-card-indicator:before {
+  content: "\e98d";
+}
+.icon-undoable-step-swiper:before {
+  content: "\e98e";
+}
+.icon-grid-tools:before {
+  content: "\e95a";
+}
+.icon-menu-grid:before {
+  content: "\e95b";
+}
+.icon-row-body-grid:before {
+  content: "\e95c";
+}
+.icon-summary-row-grid:before {
+  content: "\e95d";
+}
+.icon-view-options-grid:before {
+  content: "\e95e";
+}
+.icon-flexible-selection-grid:before {
+  content: "\e95f";
+}
+.icon-ticker-grid:before {
+  content: "\e960";
+}
+.icon-boxplot-charts:before {
+  content: "\e961";
+}
+.icon-boxplot-nobel:before {
+  content: "\e962";
+}
+.icon-navigator-line:before {
+  content: "\e963";
+}
+.icon-navigator-charts:before {
+  content: "\e964";
+}
+.icon-d3-view-sencha-tree:before {
+  content: "\e965";
+}
+.icon-field-validation-adv:before {
+  content: "\e966";
+}
+.icon-form-errortargets:before {
+  content: "\e967";
+}
+.icon-form-masks:before {
+  content: "\e968";
+}
+.icon-form-fieldui:before {
+  content: "\e969";
+}
+.icon-field-validation:before {
+  content: "\e98a";
+}
+.icon-form-validation:before {
+  content: "\e96b";
+}
+.icon-form-remote-combo:before {
+  content: "\e96c";
+}
+.icon-gauge-sectors:before {
+  content: "\e96d";
+}
+.icon-layout-form:before {
+  content: "\e96e";
+}
+.icon-layout-box:before {
+  content: "\e96f";
+}
+.icon-basic-accordion-swiper:before {
+  content: "\e970";
+}
+.icon-undoable-accordion-swiper:before {
+  content: "\e971";
+}
+.icon-listpaging-list:before {
+  content: "\e972";
+}
+.icon-basic-step-swiper:before {
+  content: "\e973";
+}
+.icon-pullrefresh-list:before {
+  content: "\e974";
+}
+.icon-audio-basic:before {
+  content: "\e975";
+}
+.icon-video-basic:before {
+  content: "\e976";
+}
+.icon-actionsheets:before {
+  content: "\e977";
+}
+.icon-panel-date-adv:before {
+  content: "\e978";
+}
+.icon-panel-date:before {
+  content: "\e979";
+}
+.icon-panel-time:before {
+  content: "\e995";
+}
+.icon-panel-basic:before {
+  content: "\e97a";
+}
+.icon-panel-collapsible:before {
+  content: "\e97b";
+}
+.icon-panel-complex-collapsible:before {
+  content: "\e97c";
+}
+.icon-panel-headerposition:before {
+  content: "\e97d";
+}
+.icon-panel-handleresize:before {
+  content: "\e97e";
+}
+.icon-panel-splitresize:before {
+  content: "\e97f";
+}
+.icon-collapsible-pivot-grid:before {
+  content: "\e980";
+}
+.icon-tabular-pivot-grid:before {
+  content: "\e981";
+}
+.icon-widgets-pivot-grid:before {
+  content: "\e982";
+}
+.icon-basic-dialog:before {
+  content: "\e983";
+}
+.icon-toast-view:before {
+  content: "\e984";
+}
+.icon-progress-basic:before {
+  content: "\e985";
+}
+.icon-progress-decorated:before {
+  content: "\e986";
+}
+.icon-tree-cell-editing:before {
+  content: "\e987";
+}
+.icon-tree-editable:before {
+  content: "\e988";
+}
+.icon-tree-decorations:before {
+  content: "\e989";
+}
+.icon-amf-three:before {
+  content: "\e938";
+}
+.icon-d3-view-heatmap-pivot-configurator:before {
+  content: "\e945";
+}
+.icon-d3-view-treemap-pivot-configurator:before {
+  content: "\e946";
+}
+.icon-d3-view-day-hour-heatmap:before {
+  content: "\e947";
+}
+.icon-d3-view-heatmap-pivot:before {
+  content: "\e956";
+}
+.icon-d3-view-words:before {
+  content: "\e957";
+}
+.icon-tooltips:before {
+  content: "\e92e";
+}
+.icon-form-placeholder:before {
+  content: "\e92c";
+}
+.icon-disclosure-list:before {
+  content: "\e92d";
+}
+.icon-binding-form:before {
   content: "\e902";
 }
-.icon-Tab-Bar:before {
-  content: "\e903";
+.icon-animations:before {
+  content: "\e92a";
 }
-.icon-Forms-CheckBoxField:before {
-  content: "\e904";
+.icon-tabs:before {
+  content: "\e952";
 }
-.icon-Forms-ComboBoxField:before {
-  content: "\e905";
+.icon-toolbar-menus:before {
+  content: "\e953";
 }
-.icon-Forms-ContainerField:before {
-  content: "\e906";
+.icon-toolbar:before {
+  content: "\e954";
 }
-.icon-Forms-DatePickerField:before {
-  content: "\e907";
+.icon-carousel:before {
+  content: "\e92b";
 }
-.icon-Forms-EmailField:before {
-  content: "\e908";
+.icon-dataview-basic:before {
+  content: "\e92f";
 }
-.icon-Forms-FieldSet:before {
-  content: "\e909";
+.icon-dataview-horizontal:before {
+  content: "\e930";
 }
-.icon-Forms-FileField:before {
-  content: "\e90a";
+.icon-dataview-inline:before {
+  content: "\e931";
 }
-.icon-Forms-Gauge:before {
-  content: "\e90b";
+.icon-ajax:before {
+  content: "\e932";
 }
-.icon-Forms-NumberField:before {
-  content: "\e90c";
+.icon-jsonp:before {
+  content: "\e933";
 }
-.icon-Forms-PasswordField:before {
-  content: "\e90d";
+.icon-nestedloading:before {
+  content: "\e934";
 }
-.icon-Forms-RadioField:before {
-  content: "\e90e";
+.icon-yql:before {
+  content: "\e935";
 }
-.icon-Forms-SearchField:before {
-  content: "\e90f";
+.icon-Data:before {
+  content: "\e936";
 }
-.icon-Forms-SelectField:before {
-  content: "\e910";
+.icon-form-panel:before {
+  content: "\e937";
 }
-.icon-Forms-SliderField:before {
-  content: "\e911";
+.icon-form-sliders:before {
+  content: "\e93e";
 }
-.icon-Forms-SpinnerField:before {
-  content: "\e912";
+.icon-fa-icons:before {
+  content: "\e93f";
 }
-.icon-Forms-TextAreaField:before {
-  content: "\e913";
+.icon-vector-icons:before {
+  content: "\e940";
 }
-.icon-Forms-TextField:before {
-  content: "\e914";
+.icon-basic-list:before {
+  content: "\e941";
 }
-.icon-Forms-ToggleField:before {
-  content: "\e915";
+.icon-grouped-list:before {
+  content: "\e948";
 }
-.icon-Forms-URLField:before {
-  content: "\e916";
+.icon-nested-list:before {
+  content: "\e949";
 }
-.icon-Redux-Grid:before {
-  content: "\e917";
+.icon-lists:before {
+  content: "\e94a";
 }
-.icon-Ripple:before {
-  content: "\e918";
+.icon-audio:before {
+  content: "\e94b";
 }
-.icon-Title-Bar:before {
-  content: "\e919";
+.icon-video:before {
+  content: "\e94c";
 }
-.icon-Transition:before {
-  content: "\e91a";
+.icon-menus:before {
+  content: "\e94d";
 }
-.icon-ticket:before {
-  content: "\e600";
+.icon-overlays:before {
+  content: "\e94e";
 }
-.icon-responsive-design:before {
-  content: "\e602";
+.icon-progress-bar:before {
+  content: "\e94f";
 }
-.icon-dd-zones:before {
-  content: "\e603";
+.icon-bottom-tabs:before {
+  content: "\e950";
 }
-.icon-reorderable-tabs:before {
-  content: "\e604";
-}
-.icon-ajax-tabs:before {
-  content: "\e605";
-}
-.icon-binding-child-session:before {
-  content: "\e606";
+.icon-touch-events:before {
+  content: "\e951";
 }
 .icon-exec-dashboard:before {
   content: "\e607";
 }
-.icon-combination-bindingtabs:before {
-  content: "\e608";
+.icon-binding-child-session:before {
+  content: "\e606";
 }
-.icon-unemployment:before {
-  content: "\e609";
+.icon-border-square:before {
+  content: "\e710";
 }
-.icon-drawing:before {
-  content: "\e60a";
+.icon-datachanges-pivot-grid:before {
+  content: "\e93b";
 }
-.icon-keyboard-navigation:before {
-  content: "\e60b";
+.icon-stateful-pivot-grid:before {
+  content: "\e93c";
 }
-.icon-screen-reader:before {
-  content: "\e60c";
+.icon-tip-aligning:before {
+  content: "\e93d";
 }
-.icon-color-picker:before {
-  content: "\e60d";
+.icon-closable-tooltips:before {
+  content: "\e942";
 }
-.icon-aria:before {
-  content: "\e60e";
+.icon-html-tooltips:before {
+  content: "\e943";
+}
+.icon-mousetrack-tooltips:before {
+  content: "\e944";
+}
+.icon-anchored-tooltips:before {
+  content: "\e959";
+}
+.icon-amf-one:before {
+  content: "\e958";
+}
+.icon-tree-list:before {
+  content: "\e63f";
+}
+.icon-address-book:before {
+  content: "\e639";
+}
+.icon-census:before {
+  content: "\e63a";
+}
+.icon-geo-congress:before {
+  content: "\e63b";
+}
+.icon-oreilly:before {
+  content: "\e63c";
+}
+.icon-stock-chart:before {
+  content: "\e63d";
+}
+.icon-us-energy:before {
+  content: "\e63e";
+}
+.icon-chart-pivot-grid:before {
+  content: "\e636";
+}
+.icon-pivot-grids:before {
+  content: "\e637";
+}
+.icon-remote-pivot-grid:before {
+  content: "\e638";
+}
+.icon-exporter-pivot-grid:before {
+  content: "\e635";
+}
+.icon-compact-pivot-grid:before {
+  content: "\e632";
+}
+.icon-configurable-pivot-grid:before {
+  content: "\e633";
+}
+.icon-drilldown-pivot-grid:before {
+  content: "\e634";
+}
+.icon-outline-pivot-grid:before {
+  content: "\e642";
+}
+.icon-rangeeditor-pivot-grid:before {
+  content: "\e643";
+}
+.icon-spreadsheet-checked:before {
+  content: "\e614";
+}
+.icon-spreadsheet:before {
+  content: "\e631";
+}
+.icon-area-negative:before {
+  content: "\e62e";
+}
+.icon-column-negative-3d:before {
+  content: "\e62f";
+}
+.icon-bar-negative-3d:before {
+  content: "\e630";
+}
+.icon-custom-template-combo:before {
+  content: "\e629";
+}
+.icon-remote-loaded-combo:before {
+  content: "\e62a";
+}
+.icon-remote-combo:before {
+  content: "\e62b";
+}
+.icon-combo-boxes:before {
+  content: "\e62d";
+}
+.icon-simple-combo:before {
+  content: "\e62c";
+}
+.icon-framing-buttons:before {
+  content: "\e624";
+}
+.icon-row-numberer:before {
+  content: "\e625";
+}
+.icon-expander-lockable:before {
+  content: "\e626";
+}
+.icon-checkbox-selection:before {
+  content: "\e627";
+}
+.icon-spreadsheet-selmodel-grid:before {
+  content: "\e628";
 }
 .icon-column-renderer-3d:before {
   content: "\e60f";
@@ -161,9 +458,6 @@
 .icon-column-basic-3d:before {
   content: "\e613";
 }
-.icon-spreadsheet-checked:before {
-  content: "\e614";
-}
 .icon-binding-selection:before {
   content: "\e615";
 }
@@ -174,6 +468,9 @@
   content: "\e617";
 }
 .icon-form-color-picker:before {
+  content: "\e618";
+}
+.icon-color-selector:before {
   content: "\e618";
 }
 .icon-direct-named:before {
@@ -209,95 +506,20 @@
 .icon-column-charts-3d:before {
   content: "\e623";
 }
-.icon-framing-buttons:before {
-  content: "\e624";
+.icon-reorderable-tabs:before {
+  content: "\e604";
 }
-.icon-row-numberer:before {
-  content: "\e625";
+.icon-ajax-tabs:before {
+  content: "\e605";
 }
-.icon-expander-lockable:before {
-  content: "\e626";
+.icon-responsive-design:before {
+  content: "\e602";
 }
-.icon-checkbox-selection:before {
-  content: "\e627";
+.icon-dd-zones:before {
+  content: "\e603";
 }
-.icon-spreadsheet-selmodel-grid:before {
-  content: "\e628";
-}
-.icon-custom-template-combo:before {
-  content: "\e629";
-}
-.icon-remote-loaded-combo:before {
-  content: "\e62a";
-}
-.icon-remote-combo:before {
-  content: "\e62b";
-}
-.icon-simple-combo:before {
-  content: "\e62c";
-}
-.icon-combo-boxes:before {
-  content: "\e62d";
-}
-.icon-area-negative:before {
-  content: "\e62e";
-}
-.icon-column-negative-3d:before {
-  content: "\e62f";
-}
-.icon-bar-negative-3d:before {
-  content: "\e630";
-}
-.icon-spreadsheet:before {
-  content: "\e631";
-}
-.icon-compact-pivot-grid:before {
-  content: "\e632";
-}
-.icon-configurable-pivot-grid:before {
-  content: "\e633";
-}
-.icon-drilldown-pivot-grid:before {
-  content: "\e634";
-}
-.icon-exporter-pivot-grid:before {
-  content: "\e635";
-}
-.icon-chart-pivot-grid:before {
-  content: "\e636";
-}
-.icon-pivot-grids:before {
-  content: "\e637";
-}
-.icon-remote-pivot-grid:before {
-  content: "\e638";
-}
-.icon-address-book:before {
-  content: "\e639";
-}
-.icon-census:before {
-  content: "\e63a";
-}
-.icon-geo-congress:before {
-  content: "\e63b";
-}
-.icon-oreilly:before {
-  content: "\e63c";
-}
-.icon-stock-chart:before {
-  content: "\e63d";
-}
-.icon-us-energy:before {
-  content: "\e63e";
-}
-.icon-tree-list:before {
-  content: "\e63f";
-}
-.icon-outline-pivot-grid:before {
-  content: "\e642";
-}
-.icon-rangeeditor-pivot-grid:before {
-  content: "\e643";
+.icon-ticket:before {
+  content: "\e600";
 }
 .icon-webdesktop:before {
   content: "\e6bd";
@@ -542,9 +764,6 @@
 .icon-calendar:before {
   content: "\e70f";
 }
-.icon-border-square:before {
-  content: "\e710";
-}
 .icon-border-hexagon:before {
   content: "\e711";
 }
@@ -749,10 +968,10 @@
 .icon-layout-vertical-box:before {
   content: "\e754";
 }
-.icon-dd-grid-row:before {
-content: "\e755";
-}
 .icon-dd-grid-to-form:before {
+  content: "\e755";
+}
+.icon-dd-grid-row:before {
   content: "\e755";
 }
 .icon-dd-field-to-grid:before {
@@ -1013,7 +1232,7 @@ content: "\e755";
 .icon-statusbar-demo:before {
   content: "\e7ac";
 }
-.icon-toolbar-overflow:before {
+.icon-toolbar-overflow2:before {
   content: "\e7ad";
 }
 .icon-toolbar-reorderable:before {
@@ -1034,8 +1253,32 @@ content: "\e755";
 .icon-ticket2:before {
   content: "\e7b3";
 }
+.icon-keyboard-navigation:before {
+  content: "\e60b";
+}
+.icon-screen-reader:before {
+  content: "\e60c";
+}
+.icon-color-picker:before {
+  content: "\e60d";
+}
+.icon-aria:before {
+  content: "\e60e";
+}
+.icon-drawing:before {
+  content: "\e60a";
+}
+.icon-combination-bindingtabs:before {
+  content: "\e608";
+}
+.icon-unemployment:before {
+  content: "\e609";
+}
 .icon-lazy-tabs:before {
   content: "\e7b8";
+}
+.icon-sprite-events:before {
+  content: "\e7bb";
 }
 .icon-draw-bounce:before {
   content: "\e7b9";
@@ -1043,451 +1286,147 @@ content: "\e755";
 .icon-easing-functions:before {
   content: "\e7ba";
 }
-.icon-sprite-events:before {
-  content: "\e7bb";
-}
-.icon-plus-circle:before {
-  content: "\e91b";
-}
-.icon-minus-circle:before {
-  content: "\e91c";
-}
-.icon-binding-form:before {
-  content: "\e91d";
-}
-.icon-grandtotals-pivot-grid:before {
-  content: "\e91e";
-}
-.icon-cellediting-pivot-grid:before {
-  content: "\e91f";
-}
-.icon-grid-exporter:before {
-  content: "\e920";
-}
-.icon-drag-data:before {
-  content: "\e921";
-}
-.icon-drag-drop-element:before {
-  content: "\e922";
-}
-.icon-drag-drop-grid:before {
-  content: "\e923";
-}
-.icon-drag-group:before {
-  content: "\e924";
-}
-.icon-drag-handle:before {
-  content: "\e925";
-}
-.icon-drag-proxy:before {
-  content: "\e926";
-}
-.icon-drag-simple:before {
-  content: "\e927";
-}
-.icon-drag-constraint:before {
-  content: "\e928";
-}
-.icon-binding-algebra-binary:before {
-  content: "\e929";
-}
-.icon-binding-algebra-formatters:before {
-  content: "\e92a";
-}
-.icon-binding-algebra-ternary:before {
-  content: "\e92b";
-}
-.icon-binding-algebra-unary:before {
-  content: "\e92c";
-}
-.icon-AlgebraInExpressions:before {
-  content: "\e92d";
-}
-.icon-d3-view-heatmap-heatmap:before {
-  content: "\e92e";
-}
-.icon-d3-heatmap:before {
-  content: "\e92f";
-}
-.icon-d3-hierarchy:before {
-  content: "\e930";
-}
-.icon-d3-svg:before {
-  content: "\e931";
-}
-.icon-d3-view-custom-svg-heatmap:before {
-  content: "\e932";
-}
-.icon-d3-view-heatmap-sales:before {
-  content: "\e933";
-}
-.icon-d3-view-pack:before {
-  content: "\e934";
-}
-.icon-d3-view-particles:before {
-  content: "\e935";
-}
-.icon-d3-view-sunburst:before {
-  content: "\e936";
-}
-.icon-d3-view-sunburst-zoom:before {
-  content: "\e937";
-}
-.icon-d3-view-transitions:before {
-  content: "\e938";
-}
-.icon-d3-view-tree:before {
-  content: "\e939";
-}
-.icon-d3-view-treemap:before {
-  content: "\e93a";
-}
-.icon-d3:before {
-  content: "\e93b";
-}
-.icon-d3-canvas:before {
-  content: "\e93c";
-}
-.icon-pie-double-donut:before {
-  content: "\e93d";
-}
-.icon-calendar-days-view:before {
-  content: "\e93e";
-}
-.icon-calendar-month-view:before {
-  content: "\e93f";
-}
-.icon-calendar-panel:before {
-  content: "\e940";
-}
-.icon-calendar-timezone:before {
-  content: "\e941";
-}
-.icon-calendar-validation:before {
-  content: "\e942";
-}
-.icon-calendar-week-view:before {
-  content: "\e943";
-}
-.icon-locked-pivot-grid:before {
-  content: "\e944";
-}
-.icon-animations:before {
-  content: "\e945";
-}
-.icon-carousel:before {
-  content: "\e946";
-}
-.icon-form-placeholder:before {
-  content: "\e947";
-}
-.icon-disclosure-list:before {
-  content: "\e948";
-}
-.icon-tooltips:before {
-  content: "\e949";
-}
-.icon-dataview-basic:before {
-  content: "\e94a";
-}
-.icon-dataview-horizontal:before {
-  content: "\e94b";
-}
-.icon-dataview-inline:before {
-  content: "\e94c";
-}
-.icon-ajax:before {
-  content: "\e94d";
-}
-.icon-jsonp:before {
-  content: "\e94e";
-}
-.icon-nestedloading:before {
-  content: "\e94f";
-}
-.icon-yql:before {
-  content: "\e950";
-}
-.icon-Data:before {
-  content: "\e951";
-}
-.icon-form-panel:before {
-  content: "\e952";
-}
-.icon-amf-three:before {
-  content: "\e953";
-}
-.icon-d3-view-heatmap-purchases:before {
-  content: "\e954";
-}
-.icon-row-editing:before {
-  content: "\e955";
-}
-.icon-datachanges-pivot-grid:before {
-  content: "\e956";
-}
-.icon-stateful-pivot-grid:before {
-  content: "\e957";
-}
-.icon-tip-aligning:before {
-  content: "\e958";
-}
-.icon-form-sliders:before {
-  content: "\e959";
-}
-.icon-fa-icons:before {
-  content: "\e95a";
-}
-.icon-vector-icons:before {
-  content: "\e95b";
-}
-.icon-basic-list:before {
-  content: "\e95c";
-}
-.icon-closable-tooltips:before {
-  content: "\e95d";
-}
-.icon-html-tooltips:before {
-  content: "\e95e";
-}
-.icon-mousetrack-tooltips:before {
-  content: "\e95f";
-}
-.icon-d3-view-heatmap-pivot-configurator:before {
-  content: "\e960";
-}
-.icon-d3-view-treemap-pivot-configurator:before {
-  content: "\e961";
-}
-.icon-d3-view-day-hour-heatmap:before {
-  content: "\e962";
-}
-.icon-grouped-list:before {
-  content: "\e963";
-}
-.icon-nested-list:before {
-  content: "\e964";
-}
-.icon-lists:before {
-  content: "\e965";
-}
-.icon-audio:before {
-  content: "\e966";
-}
-.icon-video:before {
-  content: "\e967";
-}
-.icon-menus:before {
-  content: "\e968";
-}
-.icon-overlays:before {
-  content: "\e969";
-}
-.icon-progress-bar:before {
-  content: "\e96a";
-}
-.icon-bottom-tabs:before {
-  content: "\e96b";
-}
-.icon-touch-events:before {
-  content: "\e96c";
-}
-.icon-tabs:before {
-  content: "\e96d";
-}
-.icon-toolbar-menus:before {
-  content: "\e96e";
-}
-.icon-toolbar:before {
-  content: "\e96f";
-}
-.icon-d3-view-treemap-tooltip:before {
-  content: "\e970";
-}
-.icon-d3-view-heatmap-pivot:before {
-  content: "\e971";
-}
-.icon-d3-view-words:before {
-  content: "\e972";
-}
-.icon-amf-one:before {
-  content: "\e973";
-}
-.icon-anchored-tooltips:before {
-  content: "\e974";
-}
-.icon-grid-tools:before {
-  content: "\e975";
-}
-.icon-menu-grid:before {
-  content: "\e976";
-}
-.icon-row-body-grid:before {
-  content: "\e977";
-}
-.icon-summary-row-grid:before {
-  content: "\e978";
-}
-.icon-view-options-grid:before {
-  content: "\e979";
-}
-.icon-flexible-selection-grid:before {
-  content: "\e97a";
-}
-.icon-ticker-grid:before {
-  content: "\e97b";
-}
-.icon-boxplot-charts:before {
-  content: "\e97c";
-}
-.icon-boxplot-nobel:before {
-  content: "\e97d";
-}
-.icon-navigator-line:before {
-  content: "\e97e";
-}
-.icon-navigator-charts:before {
-  content: "\e97f";
-}
-.icon-d3-view-sencha-tree:before {
-  content: "\e980";
-}
-.icon-field-validation-adv:before {
-  content: "\e981";
-}
-.icon-form-errortargets:before {
-  content: "\e982";
-}
-.icon-form-masks:before {
-  content: "\e983";
-}
-.icon-form-fieldui:before {
-  content: "\e984";
-}
-.icon-gridheader-tools:before {
-  content: "\e985";
-}
-.icon-form-validation:before {
-  content: "\e986";
-}
-.icon-form-remote-combo:before {
-  content: "\e987";
-}
-.icon-gauge-sectors:before {
-  content: "\e988";
-}
-.icon-layout-form:before {
-  content: "\e989";
-}
-.icon-layout-box:before {
-  content: "\e98a";
-}
-.icon-basic-accordion-swiper:before {
-  content: "\e98b";
-}
-.icon-undoable-accordion-swiper:before {
-  content: "\e98c";
-}
-.icon-listpaging-list:before {
-  content: "\e98d";
-}
-.icon-basic-step-swiper:before {
-  content: "\e98e";
-}
-.icon-pullrefresh-list:before {
-  content: "\e98f";
-}
-.icon-audio-basic:before {
-  content: "\e990";
-}
-.icon-video-basic:before {
-  content: "\e991";
-}
-.icon-actionsheets:before {
-  content: "\e992";
-}
-.icon-panel-date-adv:before {
-  content: "\e993";
-}
-.icon-panel-date:before {
-  content: "\e994";
-}
-.icon-panel-basic:before {
-  content: "\e995";
-}
-.icon-panel-collapsible:before {
+.icon-tree-grouped-grid:before {
   content: "\e996";
 }
-.icon-panel-complex-collapsible:before {
-  content: "\e997";
-}
-.icon-panel-headerposition:before {
-  content: "\e998";
-}
-.icon-panel-handleresize:before {
-  content: "\e999";
-}
-.icon-panel-splitresize:before {
-  content: "\e99a";
-}
-.icon-collapsible-pivot-grid:before {
-  content: "\e99b";
-}
-.icon-tabular-pivot-grid:before {
-  content: "\e99c";
-}
-.icon-widgets-pivot-grid:before {
-  content: "\e99d";
-}
-.icon-basic-dialog:before {
-  content: "\e99e";
-}
-.icon-toast-view:before {
-  content: "\e99f";
-}
-.icon-progress-basic:before {
-  content: "\e9a0";
-}
-.icon-progress-decorated:before {
-  content: "\e9a1";
-}
-.icon-tree-cell-editing:before {
-  content: "\e9a2";
-}
-.icon-tree-editable:before {
-  content: "\e9a3";
-}
-.icon-tree-decorations:before {
-  content: "\e9a4";
-}
-.icon-field-validation:before {
-  content: "\e9a5";
-}
-.icon-rowoperations-grid:before {
-  content: "\e9a6";
-}
-.icon-editable-grid:before {
-  content: "\e9a7";
-}
-.icon-layout-card-indicator:before {
-  content: "\e9a8";
-}
-.icon-undoable-step-swiper:before {
-  content: "\e9a9";
-}
-.icon-line-real-time-date:before {
-  content: "\e9aa";
-}
-.icon-line-real-time-number:before {
-  content: "\e9ab";
-}
-.icon-line-real-time:before {
-  content: "\e9ac";
-}
-
-.icon-tree-grouped-grid:before {
-  content: "\e9ad";
+.icon-advanced-grouping-grid:before {
+  content: "\e996";
 }
 .icon-grid-filterbar:before {
-  content: "\e9ae";
+  content: "\e997";
+}
+.icon-grid-advanced-filterbar:before {
+  content: "\e997";
+}
+.icon-row-editing:before {
+  content: "\e93a";
+}
+.icon-locked-pivot-grid:before {
+  content: "\e929";
+}
+.icon-d3-view-heatmap-purchases:before {
+  content: "\e939";
+}
+.icon-d3-view-heatmap-heatmap:before {
+  content: "\e913";
+}
+.icon-d3-heatmap:before {
+  content: "\e914";
+}
+.icon-grandtotals-pivot-grid:before {
+  content: "\e903";
+}
+.icon-cellediting-pivot-grid:before {
+  content: "\e904";
+}
+.icon-grid-exporter:before {
+  content: "\e905";
+}
+.icon-drag-data:before {
+  content: "\e906";
+}
+.icon-drag-drop-element:before {
+  content: "\e907";
+}
+.icon-drag-drop-grid:before {
+  content: "\e908";
+}
+.icon-drag-group:before {
+  content: "\e909";
+}
+.icon-drag-handle:before {
+  content: "\e90a";
+}
+.icon-drag-proxy:before {
+  content: "\e90b";
+}
+.icon-drag-simple:before {
+  content: "\e90c";
+}
+.icon-drag-constraint:before {
+  content: "\e90d";
+}
+.icon-binding-algebra-binary:before {
+  content: "\e90e";
+}
+.icon-binding-algebra-formatters:before {
+  content: "\e90f";
+}
+.icon-binding-algebra-ternary:before {
+  content: "\e910";
+}
+.icon-binding-algebra-unary:before {
+  content: "\e911";
+}
+.icon-AlgebraInExpressions:before {
+  content: "\e912";
+}
+.icon-d3-hierarchy:before {
+  content: "\e915";
+}
+.icon-d3-svg:before {
+  content: "\e916";
+}
+.icon-d3-view-custom-svg-heatmap:before {
+  content: "\e917";
+}
+.icon-d3-view-heatmap-sales:before {
+  content: "\e918";
+}
+.icon-d3-view-pack:before {
+  content: "\e919";
+}
+.icon-d3-view-particles:before {
+  content: "\e91a";
+}
+.icon-d3-view-sunburst:before {
+  content: "\e91b";
+}
+.icon-d3-view-sunburst-zoom:before {
+  content: "\e91c";
+}
+.icon-d3-view-transitions:before {
+  content: "\e91d";
+}
+.icon-d3-view-tree:before {
+  content: "\e91e";
+}
+.icon-d3-view-treemap-tooltip:before {
+  content: "\e955";
+}
+.icon-d3-view-treemap:before {
+  content: "\e91f";
+}
+.icon-d3:before {
+  content: "\e920";
+}
+.icon-d3-canvas:before {
+  content: "\e921";
+}
+.icon-pie-double-donut:before {
+  content: "\e922";
+}
+.icon-calendar-days-view:before {
+  content: "\e923";
+}
+.icon-calendar-month-view:before {
+  content: "\e924";
+}
+.icon-calendar-panel:before {
+  content: "\e925";
+}
+.icon-calendar-timezone:before {
+  content: "\e926";
+}
+.icon-calendar-validation:before {
+  content: "\e927";
+}
+.icon-calendar-week-view:before {
+  content: "\e928";
+}
+.icon-plus-circle:before {
+  content: "\e900";
+}
+.icon-minus-circle:before {
+  content: "\e901";
 }
