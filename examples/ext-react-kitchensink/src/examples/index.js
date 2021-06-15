@@ -383,7 +383,7 @@ const root = {
             { text: 'Wizard', component: Wizard, navIcon: 'icon-layout-card-indicator', layout: Ext.os.is.Phone ? 'fit': 'center' },
             { text: 'Froala Editor', component: FroalaEditor, layout: 'center', navIcon: 'icon-editor' },
         ]},
-        { text: 'Grids', navIcon: 'icon-grids', children: [
+        { text: 'Grids', premium: true, navIcon: 'icon-grids', children: [
             { text: 'Core Features', navIcon: 'icon-grids', children: [
                 { text: 'Basic Grid', component: BasicGrid, navIcon: 'icon-grids'},
                 { text: 'Grouped Grid', component: GroupedGrid, navIcon: 'icon-grouped-grid'},
@@ -393,10 +393,10 @@ const root = {
                 { text: 'Row Editing', component: RowEditingExample, navIcon: 'icon-row-editing'},
                 { text: 'Infinite Grid', component: InfiniteGrid, navIcon: 'icon-buffer-grid'}
             ]},
-            { text: 'Add-ons', navIcon: 'icon-framing-buttons', children: [
+            { text: 'Add-ons',premium: true, navIcon: 'icon-framing-buttons', children: [
                 { text: 'Grid Tools', component: ToolGrid, navIcon: 'icon-grid-tools'},
-                { text: 'Tree Group Grid', component: TreeGroupGrid, navIcon: 'icon-tree-grouped-grid'},
-                { text: 'Grid Filter Bar', component: GridFilterBar, navIcon: 'icon-grid-filterbar'},
+                { text: 'Tree Group Grid',premium: true, component: TreeGroupGrid, navIcon: 'icon-tree-grouped-grid'},
+                { text: 'Grid Filter Bar',premium: true, component: GridFilterBar, navIcon: 'icon-grid-filterbar'},
                 { text: 'Row Expander', component: RowExpanderGrid, navIcon: 'icon-row-expander-grid'},
                 { text: 'Row Body', component: RowBodyGrid, navIcon: 'icon-row-body-grid'},
                 { text: 'Summary Row', component: SummaryRowGrid, navIcon: 'icon-grid-summary'},
