@@ -5,13 +5,11 @@ export default class TreeGroupGridExample extends Component {
 
   store = Ext.create('Ext.data.Store', {
     autoLoad: true,
-
     groupers: [{
       property: 'date',
       // you can provide a formatter that is used to create groups
       formatter: 'date("Y")'
     }, 'person', 'company'],
-
     fields: [
       {name: 'id', type: 'int'},
       {name: 'company', type: 'string'},
@@ -34,7 +32,6 @@ export default class TreeGroupGridExample extends Component {
         name: 'continent'
       }
     ],
-
     proxy: {
       type: 'ajax',
       url: 'resources/data/SalesData.json'

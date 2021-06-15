@@ -234,7 +234,6 @@ export default class GridFilterBarExample extends Component {
           groupable={true}
           filterType='string'
         />
-
         <Column
           text='Country'
           dataIndex='country'
@@ -242,13 +241,11 @@ export default class GridFilterBarExample extends Component {
           groupable={true}
           filterType='list'
         />
-
         <Column
           text='Person'
           dataIndex='person'
           groupable={true}
         />
-
         <Column
           text='Date'
           dataIndex='date'
@@ -257,7 +254,6 @@ export default class GridFilterBarExample extends Component {
           xtype='datecolumn'
           filterType='date'
         />
-
         <Column
           text='Value'
           dataIndex='value'
@@ -266,7 +262,6 @@ export default class GridFilterBarExample extends Component {
           align='right'
           filterType='number'
         />
-
         <Column
           text='Quantity'
           dataIndex='quantity'
