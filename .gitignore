@@ -2,5 +2,4 @@ AllClassesFiles
 node_modules
 EWC_classic_Json_Descriptors
 EWC_modern_Json_Descriptors
-GeneratedFolders
-examples\ext-angular-kitchensink\runtime\ext1
+build
